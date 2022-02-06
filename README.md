@@ -48,5 +48,16 @@
 - <code>documet.write(a/=2);</code> >> 2.5
 - <code>documet.write(a%=2);</code> >> 1
 
-
-
+# 🔰 Logical Operators
+- var a = 10;
+- var b = 10;
+- var x = "10";
+- var y = 20;
+- # 📎 Equal to
+- <code>document.write(a==b)</code> >> true
+- # 📎 Identical
+- it check value and data type
+- <code>document.write(a===b)</code> >> true
+- <code>document.write(a===x)</code> >> fase ( type different )
+- # 📎 Others
+- <code> != , > , < , <= ,  <= </code>
