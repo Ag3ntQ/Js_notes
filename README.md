@@ -7,6 +7,7 @@
 - js file import to html file
 - <code><script src="test.js"></script></code>
 # 🔰 Variable & Data type
+- - Find data type with var name <code>document.write(typeof varname);</code>
 - # 📎 String
 - var name = "John";
 - let name = "Jerry";
