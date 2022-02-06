@@ -6,7 +6,7 @@
 # 🔰 File import
 - js file import to html file
 - <code><script src="test.js"></script></code>
-# 🔰 Variable
+# 🔰 Variable & Data type
 - # 📎 String
 - var name = "John";
 - let name = "Jerry";
