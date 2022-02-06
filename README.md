@@ -21,3 +21,16 @@
 - var price;
 - # 📎 Null
 - var stock = null;
+# 🔰 Arithemetic Operation
+- var a = 10;
+- var b = 3;
+- <code>documet.write(a+b);</code> >> 13
+- <code>documet.write(a-b);</code> >> 7
+- <code>documet.write(a*b);</code> >> 30
+- <code>documet.write(a/b);</code> >> 3.333
+- # 📎 Increment
+- <code>a++</code>
+- <code>documet.write(a);</code> >> 11
+- # 📎 Decrement
+- <code>a--</code>
+- <code>documet.write(a);</code> >> 9
