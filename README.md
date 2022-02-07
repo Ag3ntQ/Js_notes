@@ -1,5 +1,5 @@
 # 📒JavaScipt Notes
-- Example file 
+-  Js files is also included in this repo for examples
 # 🔰 Hello World
 - document.write("Hello World");
 - alert("Hello World");
