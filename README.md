@@ -61,3 +61,5 @@
 - <code>document.write(a===x)</code> >> fase ( type different )
 - # 📎 Others
 - <code> != , > , < , <= ,  <= </code>
+- # 📎 Gates
+- && AND , || OR , ! NOT
