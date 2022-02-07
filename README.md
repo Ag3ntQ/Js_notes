@@ -65,3 +65,11 @@
 - && AND
 - || OR
 - ! NOT
+# 🔰 Statements
+if (condition){</br>
+   &nbsp;&nbsp;code for if condition true ;</br>
+}else if (another condition){</br>
+&nbsp;&nbsp;code for if condition true ;</br>
+}else{</br>
+ &nbsp;&nbsp;code.... ;</br>
+}
