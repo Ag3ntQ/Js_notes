@@ -78,6 +78,7 @@ if (condition){</br>
 # 🔰 Switch
 - <code> file : switch.js </code></br>
 # 🔰 Loop
-- # 📎 For loop
-for (var i=1;i<6;i++){</br>
-&nbsp;&nbsp;document.write("Hello"+"</br">);
+- # 📎 for 
+- # 📎 while
+- # 📎 do while
+- <code>file : loop.js </code>
