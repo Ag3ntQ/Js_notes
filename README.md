@@ -62,4 +62,6 @@
 - # 📎 Others
 - <code> != , > , < , <= ,  <= </code>
 - # 📎 Gates
-- && AND , || OR , ! NOT
+- && AND
+- || OR
+- ! NOT
