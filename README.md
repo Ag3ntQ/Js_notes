@@ -79,5 +79,5 @@ if (condition){</br>
 - <code> file : switch.js </code></br>
 # 🔰 Loop
 - # 📎 For loop
-for (var i=1;i<6;){</br>
+for (var i=1;i<6;i++){</br>
 &nbsp;&nbsp;document.write("Hello"+"</br">);
