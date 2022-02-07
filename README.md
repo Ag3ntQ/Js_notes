@@ -1,4 +1,5 @@
 # 📒JavaScipt Notes
+- Example file 
 # 🔰 Hello World
 - document.write("Hello World");
 - alert("Hello World");
@@ -66,6 +67,8 @@
 - || OR
 - ! NOT
 # 🔰 Statements
+- <code> file : if_else.js </code></br>
+- structure given below </br>
 if (condition){</br>
    &nbsp;&nbsp;code for if condition true ;</br>
 }else if (another condition){</br>
