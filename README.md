@@ -84,3 +84,5 @@ if (condition){</br>
 - <code>file : loop.js </code>
 # 🔰 Function
 - <code>file : func.js </code>
+# 🔰 Array
+- <code>file : array.js</code>
