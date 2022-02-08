@@ -82,3 +82,5 @@ if (condition){</br>
 - # 📎 while
 - # 📎 do while
 - <code>file : loop.js </code>
+# 🔰 Function
+- <code>file : func.js </code>
