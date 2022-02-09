@@ -86,3 +86,5 @@ if (condition){</br>
 - <code>file : func.js </code>
 # 🔰 Array
 - <code>file : array.js</code>
+# 🔰 Strings
+- <code>file : strings.js</code>
