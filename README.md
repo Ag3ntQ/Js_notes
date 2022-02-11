@@ -88,3 +88,11 @@ if (condition){</br>
 - <code>file : array.js</code>
 # 🔰 Strings
 - <code>file : strings.js</code>
+# 🔰 Math object
+- <code>file : math.js </code>
+# 🔰 Document object model
+- getElementById()
+- getElementsByName() 
+- getElementsByTagName()
+- getElementsClassName()
+- <code>file : dom.js </code>
