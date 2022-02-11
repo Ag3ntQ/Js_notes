@@ -89,7 +89,16 @@ if (condition){</br>
 # 🔰 Strings
 - <code>file : strings.js</code>
 # 🔰 Math object
-- <code>file : math.js </code>
+- sqrt
+- abs
+- min
+- max
+- pow
+- floor
+- ceil
+- round
+- random
+- <code>file : math_obj.js </code>
 # 🔰 Document object model
 - getElementById()
 - getElementsByName() 
